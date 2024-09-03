@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nickingst.github.io/sitemap.html.gz
+Sitemap: https://nickingst.github.io/app/sitemap.html.gz
+Sitemap: https://nickingst.github.io/assets/sitemap.html.gz
+Sitemap: https://nickingst.github.io/css/sitemap.html.gz
+Sitemap: https://nickingst.github.io/includes/sitemap.html.gz
+Sitemap: https://nickingst.github.io/item/sitemap.html.gz
+Sitemap: https://nickingst.github.io/src/sitemap.html.gz
